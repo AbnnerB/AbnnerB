@@ -1,14 +1,14 @@
 ## 👋Oi eu sou o Abnner Borges, Desenvolvedor Front-end🚀
 
 
-<div align="space-between">
+<div align='center'>
   <a href="https://github.com/AbnnerB">
   <div > 
-    <img width='51%' height="200em" src="https://github-readme-stats.vercel.app/api?username=AbnnerB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img width='48%' height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbnnerB&layout=compact&langs_count=7&theme=dracula"/>
+    <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=AbnnerB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbnnerB&layout=compact&langs_count=7&theme=dracula"/>
   </div>
 </div>
- 
+                      <!-- removi o width  -->
   <br><br>
   
   
